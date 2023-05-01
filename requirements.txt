@@ -1,0 +1,4 @@
+dbus-fast==1.84.2
+asyncio==3.4.3
+bleak==0.20.1
+paho-mqtt==1.6.1
